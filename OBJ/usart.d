@@ -31,11 +31,5 @@
 ..\obj\usart.o: ..\STM32F10x_FWLib\inc\misc.h
 ..\obj\usart.o: ..\SYSTEM\usart\usart.h
 ..\obj\usart.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\usart.o: ..\FreeRTOS\port\include\FreeRTOS.h
-..\obj\usart.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
-..\obj\usart.o: ..\USER\FreeRTOSConfig.h
-..\obj\usart.o: ..\FreeRTOS\port\include\projdefs.h
-..\obj\usart.o: ..\FreeRTOS\port\include\portable.h
-..\obj\usart.o: ..\FreeRTOS\port\include\deprecated_definitions.h
-..\obj\usart.o: ..\FreeRTOS\port\RVDS\ARM_CM3\portmacro.h
-..\obj\usart.o: ..\FreeRTOS\port\include\mpu_wrappers.h
+..\obj\usart.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\usart.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdarg.h

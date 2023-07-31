@@ -6,7 +6,7 @@
 ..\obj\heap_4.o: ..\USER\FreeRTOSConfig.h
 ..\obj\heap_4.o: ..\SYSTEM\usart\usart.h
 ..\obj\heap_4.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\heap_4.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\heap_4.o: ..\SYSTEM\sys\sys.h
 ..\obj\heap_4.o: ..\USER\stm32f10x.h
 ..\obj\heap_4.o: ..\CORE\core_cm3.h
 ..\obj\heap_4.o: ..\USER\system_stm32f10x.h
@@ -35,7 +35,6 @@
 ..\obj\heap_4.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\heap_4.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\heap_4.o: ..\STM32F10x_FWLib\inc\misc.h
-..\obj\heap_4.o: ..\SYSTEM\sys\sys.h
 ..\obj\heap_4.o: ..\FreeRTOS\port\include\projdefs.h
 ..\obj\heap_4.o: ..\FreeRTOS\port\include\portable.h
 ..\obj\heap_4.o: ..\FreeRTOS\port\include\deprecated_definitions.h

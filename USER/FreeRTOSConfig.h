@@ -20,8 +20,10 @@
 #define xPortPendSVHandler 	PendSV_Handler
 #define vPortSVCHandler 	SVC_Handler
 
+//#define configSUPPORT_STATIC_ALLOCATION 1 //动态创建函数开关
  
- 
+#define configSUPPORT_DYNAMIC_ALLOCATION 1
+
 #define configUSE_TIME_SLICING 	1
 #define configUSE_PREEMPTION		1
 #define configUSE_IDLE_HOOK			0

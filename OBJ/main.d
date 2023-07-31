@@ -42,4 +42,17 @@
 ..\obj\main.o: ..\FreeRTOS\port\include\mpu_wrappers.h
 ..\obj\main.o: ..\FreeRTOS\port\include\task.h
 ..\obj\main.o: ..\FreeRTOS\port\include\list.h
+..\obj\main.o: ..\FreeRTOS\port\include\queue.h
 ..\obj\main.o: ..\SYSTEM\delay\delay.h
+..\obj\main.o: ..\FreeRTOS\port\include\event_groups.h
+..\obj\main.o: ..\FreeRTOS\port\include\timers.h
+..\obj\main.o: ..\HARDWARE\KEY\key.h
+..\obj\main.o: ..\HARDWARE\OLED\oled_iic.h
+..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\main.o: ..\HARDWARE\RC522\rc522.h
+..\obj\main.o: ..\HARDWARE\AS608\as608.h
+..\obj\main.o: ..\HARDWARE\ESP8266\esp8266.h
+..\obj\main.o: ..\HARDWARE\usart2\usart2.h
+..\obj\main.o: ..\HARDWARE\usart3\usart3.h
+..\obj\main.o: ..\HARDWARE\BEEP\beep.h
+..\obj\main.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h

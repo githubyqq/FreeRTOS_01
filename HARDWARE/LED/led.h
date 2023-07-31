@@ -5,7 +5,9 @@
 
 
 #define LED0 PCout(13)// PC13
-#define LED1 PBout(6);
+#define LED1 PBout(9);
+
+
 void LED_Init(void);//≥ı ºªØ
 
 		 				    

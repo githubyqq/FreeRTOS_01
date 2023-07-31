@@ -5,7 +5,7 @@
 ..\obj\port.o: ..\USER\FreeRTOSConfig.h
 ..\obj\port.o: ..\SYSTEM\usart\usart.h
 ..\obj\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\port.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\port.o: ..\SYSTEM\sys\sys.h
 ..\obj\port.o: ..\USER\stm32f10x.h
 ..\obj\port.o: ..\CORE\core_cm3.h
 ..\obj\port.o: ..\USER\system_stm32f10x.h
@@ -34,7 +34,6 @@
 ..\obj\port.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\port.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\port.o: ..\STM32F10x_FWLib\inc\misc.h
-..\obj\port.o: ..\SYSTEM\sys\sys.h
 ..\obj\port.o: ..\FreeRTOS\port\include\projdefs.h
 ..\obj\port.o: ..\FreeRTOS\port\include\portable.h
 ..\obj\port.o: ..\FreeRTOS\port\include\deprecated_definitions.h

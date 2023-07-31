@@ -7,7 +7,7 @@
 ..\obj\queue.o: ..\USER\FreeRTOSConfig.h
 ..\obj\queue.o: ..\SYSTEM\usart\usart.h
 ..\obj\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\queue.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\queue.o: ..\SYSTEM\sys\sys.h
 ..\obj\queue.o: ..\USER\stm32f10x.h
 ..\obj\queue.o: ..\CORE\core_cm3.h
 ..\obj\queue.o: ..\USER\system_stm32f10x.h
@@ -36,7 +36,6 @@
 ..\obj\queue.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\queue.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\queue.o: ..\STM32F10x_FWLib\inc\misc.h
-..\obj\queue.o: ..\SYSTEM\sys\sys.h
 ..\obj\queue.o: ..\FreeRTOS\port\include\projdefs.h
 ..\obj\queue.o: ..\FreeRTOS\port\include\portable.h
 ..\obj\queue.o: ..\FreeRTOS\port\include\deprecated_definitions.h

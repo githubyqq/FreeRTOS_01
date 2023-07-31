@@ -5,7 +5,7 @@
 ..\obj\croutine.o: ..\USER\FreeRTOSConfig.h
 ..\obj\croutine.o: ..\SYSTEM\usart\usart.h
 ..\obj\croutine.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdio.h
-..\obj\croutine.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\croutine.o: ..\SYSTEM\sys\sys.h
 ..\obj\croutine.o: ..\USER\stm32f10x.h
 ..\obj\croutine.o: ..\CORE\core_cm3.h
 ..\obj\croutine.o: ..\USER\system_stm32f10x.h
@@ -34,7 +34,6 @@
 ..\obj\croutine.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
 ..\obj\croutine.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
 ..\obj\croutine.o: ..\STM32F10x_FWLib\inc\misc.h
-..\obj\croutine.o: ..\SYSTEM\sys\sys.h
 ..\obj\croutine.o: ..\FreeRTOS\port\include\projdefs.h
 ..\obj\croutine.o: ..\FreeRTOS\port\include\portable.h
 ..\obj\croutine.o: ..\FreeRTOS\port\include\deprecated_definitions.h
